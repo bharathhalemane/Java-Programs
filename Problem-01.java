@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class project1{
+class Problem01{
     public static void main(String[] args) { 
         // Write your code here
         Scanner W=new Scanner(System.in);
