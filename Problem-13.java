@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class project13{
+class Problem_13{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter breadth value:");
