@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class project14{
+class Problem_14{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the breadth of rectangle:");
