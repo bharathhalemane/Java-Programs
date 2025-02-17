@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class project19{
+class Problem_19{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter a Password:");
