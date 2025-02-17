@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class project17{
+class Problem_17{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter a password contain more than 7 characters:");
