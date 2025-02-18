@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class project25 {
+class Problem_25 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the Math marks: ");
